@@ -12,7 +12,6 @@ public class BackendQueueApplicationTests {
 	@Test
 	public void contextLoads() {
 		
-		
 	}
 
 }
